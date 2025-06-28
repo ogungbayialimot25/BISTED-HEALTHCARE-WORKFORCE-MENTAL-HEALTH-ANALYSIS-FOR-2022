@@ -1,5 +1,5 @@
 # BISTED-HEALTHCARE-WORKFORCE-MENTAL-HEALTH-ANALYSIS-FOR-2022
-ntroduction
+Introduction
 
 The mental health and well-being of the healthcare workforce are critical components of an effective healthcare system. Healthcare professionals are frequently exposed to high-pressure environments, long working hours, emotionally demanding situations, and occupational stress, which can lead to mental health challenges such as anxiety, depression, burnout, and stress-related disorders. These challenges not only affect the personal well-being of healthcare workers but also impact patient care, job performance, and staff retention.
 
